@@ -78,6 +78,10 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 
+
+
+
+
 # Output : 
 ![P](https://github.com/user-attachments/assets/e661f657-f684-43b9-8370-96984051e8d7)
 
